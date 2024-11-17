@@ -15,7 +15,7 @@ namespace Bulky.DataAccess.Repository
         public UnitOfWork(AppDbContext db)
         {
             _db = db;
-            Category = new CategoryRepository(db);
+            Category = new CategoryRepository(_db);
         }
 
         public void Save()

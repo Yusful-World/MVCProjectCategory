@@ -570,3 +570,11 @@ C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\obj\Debug\net8.0\refint\BulkyWe
 C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.pdb
 C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.genruntimeconfig.cache
 C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\obj\Debug\net8.0\ref\BulkyWeb.dll
+C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\projectrepo\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
