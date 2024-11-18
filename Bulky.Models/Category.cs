@@ -19,6 +19,7 @@ namespace Bulky.Models
         public int DisplayOrder { get; set; }
 
         //[DisplayName("Product Description")]
+        //[Required]
         //public string? Description {get; set;}
         
         //[DisplayName("Book Price")]
