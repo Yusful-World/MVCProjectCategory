@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "BulkyWeb.95r1tsbkk5.styles.css",
+      "Route": "BulkyWeb.piiugivf39.styles.css",
       "AssetFile": "BulkyWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1126"
+          "Value": "1116"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U+PCV6bWsf+YB0f/IqTbVE95EF7p/zr3xqifNqIK+NA=\""
+          "Value": "\"QQF/8Olmx7U1okB3/Fu6Tj3iAf2DBkm88NQafvxV444=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 12 Nov 2024 19:55:25 GMT"
+          "Value": "Sun, 17 Nov 2024 15:56:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "95r1tsbkk5"
+          "Value": "piiugivf39"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-U+PCV6bWsf+YB0f/IqTbVE95EF7p/zr3xqifNqIK+NA="
+          "Value": "sha256-QQF/8Olmx7U1okB3/Fu6Tj3iAf2DBkm88NQafvxV444="
         },
         {
           "Name": "label",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1126"
+          "Value": "1116"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U+PCV6bWsf+YB0f/IqTbVE95EF7p/zr3xqifNqIK+NA=\""
+          "Value": "\"QQF/8Olmx7U1okB3/Fu6Tj3iAf2DBkm88NQafvxV444=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 12 Nov 2024 19:55:25 GMT"
+          "Value": "Sun, 17 Nov 2024 15:56:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U+PCV6bWsf+YB0f/IqTbVE95EF7p/zr3xqifNqIK+NA="
+          "Value": "sha256-QQF/8Olmx7U1okB3/Fu6Tj3iAf2DBkm88NQafvxV444="
         }
       ]
     },

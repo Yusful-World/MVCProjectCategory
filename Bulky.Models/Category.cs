@@ -18,11 +18,11 @@ namespace Bulky.Models
         [Range(1, 100, ErrorMessage = "Display Order must be between 1-100")]
         public int DisplayOrder { get; set; }
 
-        [DisplayName("Product Description")]
-        [Required]
-        public string? Description {get; set;}
+        //[DisplayName("Product Description")]
+        //[Required]
+        //public string? Description {get; set;}
         
-        [DisplayName("Book Price")]
-        public double? Price { get; set; }
+        //[DisplayName("Book Price")]
+        //public double? Price { get; set; }
     }
 }

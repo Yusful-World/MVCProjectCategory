@@ -1,17 +1,15 @@
-using System.ComponentModel;
+using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Bulky.Model {
-
-class Product {
-    [Key]
+        [Key]
         public int Id { get; set; }
+        
         [Required]
-        [DisplayName("Product Name")]
-        [MaxLength(30)]
-        public string? Name { get; set; }
 
-        [DisplayName("Product Description")]
-        public string? Desceription {get; set;}
-}
+    }
 }
