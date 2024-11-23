@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2zJkHOocyeoPNDaBu2eS0lEkzS2oRvZXn0NXUYSzUXQ=",
+  "Hash": "Xs+wVZCkC01FpTCVaN9tEfpspaewLIkxS4HhdfuVTRw=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -206,27 +206,6 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\78bc51bf-786a-4345-a0cb-02fa46331c76.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\93beb27a-9ae7-4487-964a-d21afad08957.jpg",
-      "SourceId": "BulkyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyWeb",
-      "RelativePath": "Images/Product/93beb27a-9ae7-4487-964a-d21afad08957#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5ka9aj3vij",
-      "Integrity": "S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\93beb27a-9ae7-4487-964a-d21afad08957.jpg"
-    },
-    {
       "Identity": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\a0e56ff7-886e-4101-8133-d496ece20e61.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -248,27 +227,6 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\a0e56ff7-886e-4101-8133-d496ece20e61.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\a6dd0c61-f47c-405e-bffc-b982d7fc3eba.jpg",
-      "SourceId": "BulkyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyWeb",
-      "RelativePath": "Images/Product/a6dd0c61-f47c-405e-bffc-b982d7fc3eba#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5ka9aj3vij",
-      "Integrity": "S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\a6dd0c61-f47c-405e-bffc-b982d7fc3eba.jpg"
-    },
-    {
       "Identity": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\d8652c97-7abc-45f1-9a8c-178b201a55ff.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -288,27 +246,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Product\\d8652c97-7abc-45f1-9a8c-178b201a55ff.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\fcc9a17f-3a86-4e3a-8403-523fff912679.jpg",
-      "SourceId": "BulkyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyWeb",
-      "RelativePath": "Images/Product/fcc9a17f-3a86-4e3a-8403-523fff912679#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "e58gs67tmf",
-      "Integrity": "QrFh0zqRedBrFfQCW9UfFXwhuLhJDXmlC4G3J0qHi4M=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Product\\fcc9a17f-3a86-4e3a-8403-523fff912679.jpg"
     },
     {
       "Identity": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\js\\newFile.js",
@@ -346,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "88piohd3on",
-      "Integrity": "ONxr9KuQTIp2mR7bi/4AGMeilBzVd/o5Ul6jZfa40EQ=",
+      "Fingerprint": "ujtnzkf3ns",
+      "Integrity": "pocV/sEENceAGBgkOyHNuM3IunI4u2/ao9RGd5Eh4/4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Product.js"
@@ -2311,88 +2248,6 @@
       ]
     },
     {
-      "Route": "Images/Product/93beb27a-9ae7-4487-964a-d21afad08957.5ka9aj3vij.jpg",
-      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\93beb27a-9ae7-4487-964a-d21afad08957.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12710"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 21:35:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ka9aj3vij"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Product/93beb27a-9ae7-4487-964a-d21afad08957.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Product/93beb27a-9ae7-4487-964a-d21afad08957.jpg",
-      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\93beb27a-9ae7-4487-964a-d21afad08957.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12710"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 22 Nov 2024 21:35:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw="
-        }
-      ]
-    },
-    {
       "Route": "Images/Product/a0e56ff7-886e-4101-8133-d496ece20e61.asbi4wwv9t.jpg",
       "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\a0e56ff7-886e-4101-8133-d496ece20e61.jpg",
       "Selectors": [],
@@ -2471,88 +2326,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Product/a6dd0c61-f47c-405e-bffc-b982d7fc3eba.5ka9aj3vij.jpg",
-      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\a6dd0c61-f47c-405e-bffc-b982d7fc3eba.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12710"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 22:44:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ka9aj3vij"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Product/a6dd0c61-f47c-405e-bffc-b982d7fc3eba.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Product/a6dd0c61-f47c-405e-bffc-b982d7fc3eba.jpg",
-      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\a6dd0c61-f47c-405e-bffc-b982d7fc3eba.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12710"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 22:44:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-S/wpTVKuU+yMle55dQiUPU/4nVV9NqrUI7XuqiLf8Mw="
         }
       ]
     },
@@ -2639,88 +2412,6 @@
       ]
     },
     {
-      "Route": "Images/Product/fcc9a17f-3a86-4e3a-8403-523fff912679.e58gs67tmf.jpg",
-      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\fcc9a17f-3a86-4e3a-8403-523fff912679.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9982"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QrFh0zqRedBrFfQCW9UfFXwhuLhJDXmlC4G3J0qHi4M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 22:43:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "e58gs67tmf"
-        },
-        {
-          "Name": "label",
-          "Value": "Images/Product/fcc9a17f-3a86-4e3a-8403-523fff912679.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QrFh0zqRedBrFfQCW9UfFXwhuLhJDXmlC4G3J0qHi4M="
-        }
-      ]
-    },
-    {
-      "Route": "Images/Product/fcc9a17f-3a86-4e3a-8403-523fff912679.jpg",
-      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\fcc9a17f-3a86-4e3a-8403-523fff912679.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9982"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QrFh0zqRedBrFfQCW9UfFXwhuLhJDXmlC4G3J0qHi4M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 22:43:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-QrFh0zqRedBrFfQCW9UfFXwhuLhJDXmlC4G3J0qHi4M="
-        }
-      ]
-    },
-    {
       "Route": "js/newFile.5ipweew5fc.js",
       "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\js\\newFile.js",
       "Selectors": [],
@@ -2803,51 +2494,6 @@
       ]
     },
     {
-      "Route": "js/Product.88piohd3on.js",
-      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "495"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ONxr9KuQTIp2mR7bi/4AGMeilBzVd/o5Ul6jZfa40EQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 08:55:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "88piohd3on"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Product.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ONxr9KuQTIp2mR7bi/4AGMeilBzVd/o5Ul6jZfa40EQ="
-        }
-      ]
-    },
-    {
       "Route": "js/Product.js",
       "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
       "Selectors": [],
@@ -2858,7 +2504,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "495"
+          "Value": "1702"
         },
         {
           "Name": "Content-Type",
@@ -2866,11 +2512,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ONxr9KuQTIp2mR7bi/4AGMeilBzVd/o5Ul6jZfa40EQ=\""
+          "Value": "\"pocV/sEENceAGBgkOyHNuM3IunI4u2/ao9RGd5Eh4/4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 08:55:17 GMT"
+          "Value": "Sat, 23 Nov 2024 11:06:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2880,7 +2526,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ONxr9KuQTIp2mR7bi/4AGMeilBzVd/o5Ul6jZfa40EQ="
+          "Value": "sha256-pocV/sEENceAGBgkOyHNuM3IunI4u2/ao9RGd5Eh4/4="
+        }
+      ]
+    },
+    {
+      "Route": "js/Product.ujtnzkf3ns.js",
+      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pocV/sEENceAGBgkOyHNuM3IunI4u2/ao9RGd5Eh4/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 11:06:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ujtnzkf3ns"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Product.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pocV/sEENceAGBgkOyHNuM3IunI4u2/ao9RGd5Eh4/4="
         }
       ]
     },
