@@ -30,20 +30,20 @@ namespace Bulky.Models
         [Required]
         [DisplayName("Book Price")]
         [Range(1, 1000)]
-        public double? BookPrice { get; set; }
+        public double BookPrice { get; set; }
 
         [Required]
         [DisplayName("Price for 1-50")]
         [Range(1, 1000)]
-        public double? Price { get; set; }
+        public double Price { get; set; }
         [Required]
         [DisplayName("Price for 50+")]
         [Range(1, 1000)]
-        public double? Price50 { get; set; }
+        public double Price50 { get; set; }
         [Required]
         [DisplayName("Price for 100+")]
         [Range(1, 1000)]
-        public double? Price100 { get; set; }
+        public double Price100 { get; set; }
 
         public int CategoryId { get; set; }
         [ForeignKey("CategoryId")]
