@@ -5,12 +5,48 @@
       "PackagePath": "staticwebassets\\BulkyWeb.piiugivf39.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\11a6b33a-f007-4c72-affa-358ff4a915c0.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\11a6b33a-f007-4c72-affa-358ff4a915c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\1fa266b6-0e04-4e1a-8444-16e3a498e6fc.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\1fa266b6-0e04-4e1a-8444-16e3a498e6fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\36dfa501-9b0f-4b58-86a6-cd88756a4387.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\36dfa501-9b0f-4b58-86a6-cd88756a4387.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\4cf6aeba-0993-4b7c-aa0d-2f372a03728d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\4cf6aeba-0993-4b7c-aa0d-2f372a03728d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\78bc51bf-786a-4345-a0cb-02fa46331c76.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\78bc51bf-786a-4345-a0cb-02fa46331c76.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\a0e56ff7-886e-4101-8133-d496ece20e61.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\a0e56ff7-886e-4101-8133-d496ece20e61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\d8652c97-7abc-45f1-9a8c-178b201a55ff.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\d8652c97-7abc-45f1-9a8c-178b201a55ff.jpg"
+    },
+    {
       "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\js\\newFile.js",
+      "PackagePath": "staticwebassets\\js\\newFile.js"
     },
     {
       "Id": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
