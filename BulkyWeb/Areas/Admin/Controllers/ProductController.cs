@@ -20,8 +20,8 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            List<Product> objProducts = _unitOfWork.Product.GetAll(includeProperties:"Category").ToList();
-            
+            List<Product> objProducts = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
+
             return View(objProducts);
         }
 
@@ -99,7 +99,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
                     Text = u.Name,
                     Value = u.Id.ToString()
                 });
-    
+
                 return View(productVM);
             }
         }
@@ -132,5 +132,17 @@ namespace BulkyWeb.Areas.Admin.Controllers
             TempData["success"] = "Category deleted successfully.";
             return RedirectToAction("Index");
         }
+
+        #region API CALLS
+
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            List<Product> objProductList = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
+
+            return Json(new { data = objProductList });
+        }
+
+        #endregion
     }
 }
