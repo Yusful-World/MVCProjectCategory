@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyWebRazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49ff2f74ce03058eb0f32876c56365fe88ddf707")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0854403f703ad06bd1cc5ac1cc2b84f19e96563e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyWebRazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyWebRazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
