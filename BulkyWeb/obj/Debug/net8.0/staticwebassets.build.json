@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5oqHHStQeUdOmInXZXn3rArR52kKCGTyWtm7rSW+lTY=",
+  "Hash": "+MX4VYzdLK5Zw7MWt++7tLbnmoFWBy7jYbX9pM0LB8w=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wkp9aim6gq",
-      "Integrity": "QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=",
+      "Fingerprint": "461t727vpi",
+      "Integrity": "LIpR2jH+bMglkG7FJJ2oFUD9T5ocegAdBZFhTZV2olU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2955,6 +2955,51 @@
       ]
     },
     {
+      "Route": "css/site.461t727vpi.css",
+      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LIpR2jH+bMglkG7FJJ2oFUD9T5ocegAdBZFhTZV2olU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 04:33:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "461t727vpi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LIpR2jH+bMglkG7FJJ2oFUD9T5ocegAdBZFhTZV2olU="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2965,7 +3010,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11912"
+          "Value": "12104"
         },
         {
           "Name": "Content-Type",
@@ -2973,11 +3018,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
+          "Value": "\"LIpR2jH+bMglkG7FJJ2oFUD9T5ocegAdBZFhTZV2olU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 12 Nov 2024 19:55:25 GMT"
+          "Value": "Wed, 27 Nov 2024 04:33:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2987,52 +3032,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.wkp9aim6gq.css",
-      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 12 Nov 2024 19:55:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wkp9aim6gq"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
+          "Value": "sha256-LIpR2jH+bMglkG7FJJ2oFUD9T5ocegAdBZFhTZV2olU="
         }
       ]
     },
