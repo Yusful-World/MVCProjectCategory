@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+MX4VYzdLK5Zw7MWt++7tLbnmoFWBy7jYbX9pM0LB8w=",
+  "Hash": "/eqJgRPVRZ7exphw27BuoivsDozwytppfBnCduH8PRA=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1380,6 +1380,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Product\\1fa266b6-0e04-4e1a-8444-16e3a498e6fc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\3611bbdb-b671-4339-b25c-542d4eaec4b4.png",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/Product/3611bbdb-b671-4339-b25c-542d4eaec4b4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ta44cbam0i",
+      "Integrity": "O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Product\\3611bbdb-b671-4339-b25c-542d4eaec4b4.png"
     },
     {
       "Identity": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\36dfa501-9b0f-4b58-86a6-cd88756a4387.jpg",
@@ -5417,6 +5438,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Product/3611bbdb-b671-4339-b25c-542d4eaec4b4.png",
+      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\3611bbdb-b671-4339-b25c-542d4eaec4b4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 08:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Product/3611bbdb-b671-4339-b25c-542d4eaec4b4.ta44cbam0i.png",
+      "AssetFile": "C:\\Users\\Admin\\source\\projectrepo\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\3611bbdb-b671-4339-b25c-542d4eaec4b4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 08:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ta44cbam0i"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Product/3611bbdb-b671-4339-b25c-542d4eaec4b4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM="
         }
       ]
     },
